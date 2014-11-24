@@ -1,0 +1,23 @@
+{
+  "levels": {
+    "l": "L",
+    "m": "M",
+    "q": "Q",
+    "h": "H"
+  },
+  "types": {
+    "png": "png",
+    "svg": "svg",
+    "pdf": "pdf",
+    "eps": "eps"
+  },
+  "headers": {
+    "contentType": "Content-Type"
+  },
+  "contentTypes": {
+    "png": "image/png",
+    "svg": "image/svg+xml",
+    "pdf": "application/pdf",
+    "eps": "application/postscript"
+  }
+}

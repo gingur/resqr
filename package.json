@@ -1,0 +1,25 @@
+{
+  "name": "resqr",
+  "version": "0.0.1",
+  "description": "Provides various QR output format methods",
+  "author": "Troy Rhinehart <troy.rhinehart@gmail.com>",
+  "masterDocuments": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "jscs": "npm run jscs-src",
+    "jscs-src": "jscs index.js lib/",
+    "jshint": "npm run jshint-src",
+    "jshint-src": "jshint index.js lib/",
+    "lint": "npm run jshint && npm run jscs"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "node-constants": "0.0.2",
+    "qr-image": "^2.0.0"
+  },
+  "devDependencies": {
+    "express": "^4.10.2",
+    "jscs": "~1.7.3",
+    "jshint": "~2.5.10"
+  }
+}
