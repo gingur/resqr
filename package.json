@@ -1,6 +1,6 @@
 {
   "name": "resqr",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Provides various QR output format methods",
   "author": "Troy Rhinehart <troy.rhinehart@gmail.com>",
   "masterDocuments": "index.js",
